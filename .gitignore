@@ -14,8 +14,6 @@ build/
 .pytest_cache/
 .mypy_cache/
 # Environment files
-.env
-.env.local
 .env.*.local
 !.env.example
 
@@ -31,3 +29,4 @@ SESSION-*.md
 TEST-*.html
 **/clear-storage.html
 *DEBUG_NOTES.md
+config.bat
